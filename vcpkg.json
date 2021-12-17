@@ -1,0 +1,8 @@
+{
+    "name": "raylib-test",
+    "version-string": "0.0.0",
+    "dependencies": [
+        { "name" :"raylib", "features": ["hidpi","use-audio"]},
+        "glfw3"
+    ]
+}
